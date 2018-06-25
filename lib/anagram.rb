@@ -15,4 +15,4 @@ class Anagram
     end
     return matches
   end
-    
+end
